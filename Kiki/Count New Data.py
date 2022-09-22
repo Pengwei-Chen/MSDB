@@ -9,7 +9,7 @@ if sra[-1:] != "/":
 fastq_dump = "/opt/shared/Biosoft/sratoolkit.3.0.0/bin/fastq-dump"
 fasterq_dump = "/opt/shared/Biosoft/sratoolkit.3.0.0/bin/fasterq-dump"
 cellranger = "/opt/shared/Biosoft/cellranger-7.0.0/bin/cellranger-7.0.0"
-transcriptome = "/mnt/volume3/cpw/refdata-gex-GRCh38-2020-A"
+transcriptome = "/mnt/volume3/cpw/refdata-gex-GRCh38-2020-A.tar.gz"
 delete_after_count = True
 fasterq = False
 bash = False
@@ -125,7 +125,7 @@ for runs_of_a_sample in scRNA.values():
             print("Fasterq dumping", run[name] + "...")
             command += "echo $(date +%F%n%T)' Fasterq dumping " + run[paper] + "...'\n"
             command += "cd " + run[paper] + "\n"
-            command += fasterq_dump + " --outdir 01_fastq --split-files -e 16 --include-technical" + run[name] + "\n"
+            command += fasterq_dump + " --outdir 01_fastq --split-files -e 16 --include-technical " + run[name] + "\n"
             command += "cd ../\n"
 
         # Rename
