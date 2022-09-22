@@ -122,7 +122,7 @@ for runs_of_a_sample in scRNA.values():
         else:
             # Fasterq-dump
             print("Fasterq dumping", run[name] + "...")
-            command += "echo $(date +%F%n%T)' Fasterq dumping " + run[paper] + "...'\n"
+            command += "echo $(date +%F%n%T)' Fasterq dumping " + run[name] + "...'\n"
             command += "cd " + run[paper] + "\n"
             command += fasterq_dump + " --outdir 01_fastq --split-files -e 16 --include-technical " + run[name] + "\n"
             command += "cd ../\n"
