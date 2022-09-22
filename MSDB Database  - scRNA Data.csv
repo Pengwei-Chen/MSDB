@@ -1,0 +1,530 @@
+﻿Sample.Name,Rep/donor,Age,Gender,Run,Assay.Type,LibraryLayout,Cell type,Disease/treat,Disease status,"condition (distal medial condyle=damage=lesioned posterior lateral condyle=intact=preserved)",source tissue,"Developmental stage",AvgSpotLen,Instrument,paper,GEO accession,数据状态,,分析状态,tissue
+SAMN18243714,,,,SRR13927112,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,187,Illumina NovaSeq 6000,2021_Liu Y,GSE162454,featurecounts,,完成,骨
+SAMN18243714,,,,SRR13927113,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,187,Illumina NovaSeq 6000,2021_Liu Y,GSE162454,featurecounts,,完成,骨
+SAMN18243714,,,,SRR13927114,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,187,Illumina NovaSeq 6000,2021_Liu Y,GSE162454,featurecounts,,完成,骨
+SAMN18243714,,,,SRR13927115,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,187,Illumina NovaSeq 6000,2021_Liu Y,GSE162454,featurecounts,,完成,骨
+SAMN18243713,,,,SRR13927116,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,187,Illumina NovaSeq 6000,2021_Liu Y,GSE162454,featurecounts,,完成,骨
+SAMN18243713,,,,SRR13927117,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,187,Illumina NovaSeq 6000,2021_Liu Y,GSE162454,featurecounts,,完成,骨
+SAMN18243713,,,,SRR13927118,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,187,Illumina NovaSeq 6000,2021_Liu Y,GSE162454,featurecounts,,完成,骨
+SAMN18243713,,,,SRR13927119,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,187,Illumina NovaSeq 6000,2021_Liu Y,GSE162454,featurecounts,,完成,骨
+SAMN18243712,,,,SRR13927120,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,187,Illumina NovaSeq 6000,2021_Liu Y,GSE162454,featurecounts,,完成,骨
+SAMN18243712,,,,SRR13927121,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,187,Illumina NovaSeq 6000,2021_Liu Y,GSE162454,featurecounts,,完成,骨
+SAMN18243712,,,,SRR13927122,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,187,Illumina NovaSeq 6000,2021_Liu Y,GSE162454,featurecounts,,完成,骨
+SAMN18243712,,,,SRR13927123,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,187,Illumina NovaSeq 6000,2021_Liu Y,GSE162454,featurecounts,,完成,骨
+SAMN16970640,,,,SRR13177101,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,187,Illumina NovaSeq 6000,2021_Liu Y,GSE162454,featurecounts,,完成,骨
+SAMN16970640,,,,SRR13177102,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,187,Illumina NovaSeq 6000,2021_Liu Y,GSE162454,featurecounts,,完成,骨
+SAMN16970640,,,,SRR13177103,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,187,Illumina NovaSeq 6000,2021_Liu Y,GSE162454,featurecounts,,完成,骨
+SAMN16970640,,,,SRR13177104,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,187,Illumina NovaSeq 6000,2021_Liu Y,GSE162454,featurecounts,,完成,骨
+SAMN16970639,,,,SRR13177105,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,187,Illumina NovaSeq 6000,2021_Liu Y,GSE162454,featurecounts,,完成,骨
+SAMN16970639,,,,SRR13177106,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,187,Illumina NovaSeq 6000,2021_Liu Y,GSE162454,featurecounts,,完成,骨
+SAMN16970639,,,,SRR13177107,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,187,Illumina NovaSeq 6000,2021_Liu Y,GSE162454,featurecounts,,完成,骨
+SAMN16970639,,,,SRR13177108,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,187,Illumina NovaSeq 6000,2021_Liu Y,GSE162454,featurecounts,,完成,骨
+SAMN16970638,,,,SRR13177109,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,187,Illumina NovaSeq 6000,2021_Liu Y,GSE162454,featurecounts,,完成,骨
+SAMN15176828,,,,SRR11955304,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176884,,,,SRR11955305,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176883,,,,SRR11955306,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176882,,,,SRR11955307,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176881,,,,SRR11955308,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176880,,,,SRR11955309,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176879,,,,SRR11955310,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176878,,,,SRR11955311,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176877,,,,SRR11955312,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176876,,,,SRR11955313,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176875,,,,SRR11955314,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176874,,,,SRR11955315,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176873,,,,SRR11955316,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176872,,,,SRR11955317,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176871,,,,SRR11955318,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176864,,,,SRR11955319,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176870,,,,SRR11955320,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176869,,,,SRR11955321,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176868,,,,SRR11955322,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176867,,,,SRR11955323,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176866,,,,SRR11955324,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176865,,,,SRR11955325,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176861,,,,SRR11955326,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176860,,,,SRR11955327,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176859,,,,SRR11955328,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176858,,,,SRR11955329,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176857,,,,SRR11955330,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176863,,,,SRR11955331,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176862,,,,SRR11955332,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176856,,,,SRR11955333,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176839,,,,SRR11955334,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176838,,,,SRR11955335,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176837,,,,SRR11955336,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176836,,,,SRR11955337,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176835,,,,SRR11955338,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176834,,,,SRR11955339,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176833,,,,SRR11955340,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176832,,,,SRR11955341,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176831,,,,SRR11955342,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176830,,,,SRR11955343,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176829,,,,SRR11955344,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176903,,,,SRR11955345,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176902,,,,SRR11955346,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176901,,,,SRR11955347,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176900,,,,SRR11955348,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176899,,,,SRR11955349,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176898,,,,SRR11955350,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176897,,,,SRR11955351,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176896,,,,SRR11955352,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176895,,,,SRR11955353,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176894,,,,SRR11955354,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176893,,,,SRR11955355,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176892,,,,SRR11955356,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176891,,,,SRR11955357,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176890,,,,SRR11955358,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176889,,,,SRR11955359,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176888,,,,SRR11955360,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176887,,,,SRR11955361,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176886,,,,SRR11955362,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176885,,,,SRR11955363,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176855,,,,SRR11955364,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176854,,,,SRR11955365,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176853,,,,SRR11955366,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176852,,,,SRR11955367,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176851,,,,SRR11955368,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176850,,,,SRR11955369,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176849,,,,SRR11955370,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176848,,,,SRR11955371,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176847,,,,SRR11955372,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176846,,,,SRR11955373,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176845,,,,SRR11955374,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176844,,,,SRR11955375,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176843,,,,SRR11955376,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176842,,,,SRR11955377,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176841,,,,SRR11955378,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN15176840,,,,SRR11955379,scRNA-seq,PAIRED,tumor cell,osteosarcoma,,,bone,,300,Illumina NovaSeq 6000,2020_Zhou Y,GSE152048,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN14414770,,67,female,SRR11359429,scRNA-seq,PAIRED,BMSC,osteoporosis,,,bone marrow,,300,Illumina NovaSeq 6000,2021_Wang Z,GSE147287,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN14414770,,67,female,SRR11359430,scRNA-seq,PAIRED,BMSC,osteoporosis,,,bone marrow,,300,Illumina NovaSeq 6000,2021_Wang Z,GSE147287,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN14414770,,67,female,SRR11359431,scRNA-seq,PAIRED,BMSC,osteoporosis,,,bone marrow,,300,Illumina NovaSeq 6000,2021_Wang Z,GSE147287,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN14414770,,67,female,SRR11359432,scRNA-seq,PAIRED,BMSC,osteoporosis,,,bone marrow,,300,Illumina NovaSeq 6000,2021_Wang Z,GSE147287,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN14414769,,84,male,SRR11359433,scRNA-seq,PAIRED,BMSC,osteoporosis,,,bone marrow,,300,Illumina NovaSeq 6000,2021_Wang Z,GSE147287,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN14414769,,84,male,SRR11359434,scRNA-seq,PAIRED,BMSC,osteoporosis,,,bone marrow,,300,Illumina NovaSeq 6000,2021_Wang Z,GSE147287,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN14414769,,84,male,SRR11359435,scRNA-seq,PAIRED,BMSC,osteoporosis,,,bone marrow,,300,Illumina NovaSeq 6000,2021_Wang Z,GSE147287,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+SAMN14414769,,84,male,SRR11359436,scRNA-seq,PAIRED,BMSC,osteoporosis,,,bone marrow,,300,Illumina NovaSeq 6000,2021_Wang Z,GSE147287,featurecounts,At least 50% of the reads should exceed the minimum length,分析bug,骨
+GSM2807808,,,missing,SRR6155048,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM2807809,,,missing,SRR6155049,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM2807810,,,missing,SRR6155050,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM2807811,,,missing,SRR6155051,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM2807812,,,missing,SRR6155052,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM2807814,,,missing,SRR6155054,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM2807815,,,missing,SRR6155055,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM2807816,,,missing,SRR6155056,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM2807818,,,missing,SRR6155058,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM2807819,,,missing,SRR6155059,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM2807820,,,missing,SRR6155060,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM2807821,,,missing,SRR6155061,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM2807822,,,missing,SRR6155062,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM2807823,,,missing,SRR6155063,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM2807824,,,missing,SRR6155064,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM2807825,,,missing,SRR6155065,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM2807826,,,missing,SRR6155066,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM2807827,,,missing,SRR6155067,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM2807828,,,missing,SRR6155068,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM2807829,,,missing,SRR6155069,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM2807830,,,missing,SRR6155070,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM2807831,,,missing,SRR6155071,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM2807832,,,missing,SRR6155072,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM2807833,,,missing,SRR6155073,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM2807834,,,missing,SRR6155074,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM2807835,,,missing,SRR6155075,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM2807836,,,missing,SRR6155076,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM2807837,,,missing,SRR6155077,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM2807838,,,missing,SRR6155078,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM2807839,,,missing,SRR6155079,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM2807840,,,missing,SRR6155080,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM2807841,,,missing,SRR6155081,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM2807813,,,missing,SRR6155053,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM2807817,,,missing,SRR6155057,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,300,Illumina HiSeq 4000,2019_Ji_Q,GSE104782,align统计,,完成,软骨
+GSM4626763,donor1,,male,SRR12053365,scRNA-seq,PAIRED,Synoviocytes,OA,,,synovial tissue from knee,,98,Illumina HiSeq 4000,2020_Chou_CH,GSE152805,quit,,分析bug,软骨
+GSM4626764,donor2,,female,SRR12053366,scRNA-seq,PAIRED,Synoviocytes,OA,,,synovial tissue from knee,,98,Illumina HiSeq 4000,2020_Chou_CH,GSE152805,quit,,分析bug,软骨
+GSM4626765,donor3,,female,SRR12053367,scRNA-seq,PAIRED,Synoviocytes,OA,,,synovial tissue from knee,,98,Illumina HiSeq 4000,2020_Chou_CH,GSE152805,quit,,分析bug,软骨
+GSM4626766,donor1,,male,SRR12053368,scRNA-seq,PAIRED,Chondrocytes,OA,,preserved,knee cartilage,,98,Illumina HiSeq 4000,2020_Chou_CH,GSE152805,quit,,分析bug,软骨
+GSM4626767,donor2,,female,SRR12053369,scRNA-seq,PAIRED,Chondrocytes,OA,,preserved,knee cartilage,,98,Illumina HiSeq 4000,2020_Chou_CH,GSE152805,quit,,分析bug,软骨
+GSM4626768,donor3,,female,SRR12053370,scRNA-seq,PAIRED,Chondrocytes,OA,,preserved,knee cartilage,,98,Illumina HiSeq 4000,2020_Chou_CH,GSE152805,quit,,分析bug,软骨
+GSM4626769,donor1,,male,SRR12053371,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,98,Illumina HiSeq 4000,2020_Chou_CH,GSE152805,quit,,分析bug,软骨
+GSM4626770,donor2,,female,SRR12053372,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,98,Illumina HiSeq 4000,2020_Chou_CH,GSE152805,quit,,分析bug,软骨
+GSM4626771,donor3,,female,SRR12053373,scRNA-seq,PAIRED,Chondrocytes,OA,,lesioned,knee cartilage,,98,Illumina HiSeq 4000,2020_Chou_CH,GSE152805,quit,,分析bug,软骨
+GSM5362559,,,,SRR14750794,scRNA-seq,PAIRED,Synovial fibroblasts,OA,EndStage_painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362559,,,,SRR14750795,scRNA-seq,PAIRED,Synovial fibroblasts,OA,EndStage_painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362559,,,,SRR14750796,scRNA-seq,PAIRED,Synovial fibroblasts,OA,EndStage_painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362559,,,,SRR14750797,scRNA-seq,PAIRED,Synovial fibroblasts,OA,EndStage_painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362559,,,,SRR14750798,scRNA-seq,PAIRED,Synovial fibroblasts,OA,EndStage_painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362559,,,,SRR14750799,scRNA-seq,PAIRED,Synovial fibroblasts,OA,EndStage_painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362559,,,,SRR14750800,scRNA-seq,PAIRED,Synovial fibroblasts,OA,EndStage_painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362559,,,,SRR14750801,scRNA-seq,PAIRED,Synovial fibroblasts,OA,EndStage_painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362559,,,,SRR14750802,scRNA-seq,PAIRED,Synovial fibroblasts,OA,EndStage_painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362559,,,,SRR14750803,scRNA-seq,PAIRED,Synovial fibroblasts,OA,EndStage_painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362559,,,,SRR14750804,scRNA-seq,PAIRED,Synovial fibroblasts,OA,EndStage_painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362559,,,,SRR14750805,scRNA-seq,PAIRED,Synovial fibroblasts,OA,EndStage_painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362559,,,,SRR14750806,scRNA-seq,PAIRED,Synovial fibroblasts,OA,EndStage_painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362559,,,,SRR14750807,scRNA-seq,PAIRED,Synovial fibroblasts,OA,EndStage_painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362559,,,,SRR14750808,scRNA-seq,PAIRED,Synovial fibroblasts,OA,EndStage_painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362559,,,,SRR14750809,scRNA-seq,PAIRED,Synovial fibroblasts,OA,EndStage_painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362560,,,,SRR14750810,scRNA-seq,PAIRED,Synovial fibroblasts,OA,early_painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362560,,,,SRR14750811,scRNA-seq,PAIRED,Synovial fibroblasts,OA,early_painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362560,,,,SRR14750812,scRNA-seq,PAIRED,Synovial fibroblasts,OA,early_painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362560,,,,SRR14750813,scRNA-seq,PAIRED,Synovial fibroblasts,OA,early_painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362560,,,,SRR14750814,scRNA-seq,PAIRED,Synovial fibroblasts,OA,early_painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362560,,,,SRR14750815,scRNA-seq,PAIRED,Synovial fibroblasts,OA,early_painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362560,,,,SRR14750816,scRNA-seq,PAIRED,Synovial fibroblasts,OA,early_painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362560,,,,SRR14750817,scRNA-seq,PAIRED,Synovial fibroblasts,OA,early_painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362560,,,,SRR14750818,scRNA-seq,PAIRED,Synovial fibroblasts,OA,early_painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362560,,,,SRR14750819,scRNA-seq,PAIRED,Synovial fibroblasts,OA,early_painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362560,,,,SRR14750820,scRNA-seq,PAIRED,Synovial fibroblasts,OA,early_painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362560,,,,SRR14750821,scRNA-seq,PAIRED,Synovial fibroblasts,OA,early_painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362560,,,,SRR14750822,scRNA-seq,PAIRED,Synovial fibroblasts,OA,early_painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362560,,,,SRR14750823,scRNA-seq,PAIRED,Synovial fibroblasts,OA,early_painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362560,,,,SRR14750824,scRNA-seq,PAIRED,Synovial fibroblasts,OA,early_painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362560,,,,SRR14750825,scRNA-seq,PAIRED,Synovial fibroblasts,OA,early_painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362561,,,,SRR14750826,scRNA-seq,PAIRED,Synovial fibroblasts,OA,early_non-painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362561,,,,SRR14750827,scRNA-seq,PAIRED,Synovial fibroblasts,OA,early_non-painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362561,,,,SRR14750828,scRNA-seq,PAIRED,Synovial fibroblasts,OA,early_non-painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362561,,,,SRR14750829,scRNA-seq,PAIRED,Synovial fibroblasts,OA,early_non-painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362561,,,,SRR14750830,scRNA-seq,PAIRED,Synovial fibroblasts,OA,early_non-painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362561,,,,SRR14750831,scRNA-seq,PAIRED,Synovial fibroblasts,OA,early_non-painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362561,,,,SRR14750832,scRNA-seq,PAIRED,Synovial fibroblasts,OA,early_non-painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362561,,,,SRR14750833,scRNA-seq,PAIRED,Synovial fibroblasts,OA,early_non-painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362561,,,,SRR14750834,scRNA-seq,PAIRED,Synovial fibroblasts,OA,early_non-painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362561,,,,SRR14750835,scRNA-seq,PAIRED,Synovial fibroblasts,OA,early_non-painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362561,,,,SRR14750836,scRNA-seq,PAIRED,Synovial fibroblasts,OA,early_non-painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362561,,,,SRR14750837,scRNA-seq,PAIRED,Synovial fibroblasts,OA,early_non-painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362561,,,,SRR14750838,scRNA-seq,PAIRED,Synovial fibroblasts,OA,early_non-painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362561,,,,SRR14750839,scRNA-seq,PAIRED,Synovial fibroblasts,OA,early_non-painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362561,,,,SRR14750840,scRNA-seq,PAIRED,Synovial fibroblasts,OA,early_non-painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+GSM5362561,,,,SRR14750841,scRNA-seq,PAIRED,Synovial fibroblasts,OA,early_non-painful,,synovial tissue from knee,,132,NextSeq 500,2021_Nanus_DE,GSE176308,未开始,,未开始,软骨
+SAMN25653297,,,,SRR17886422,scRNA-seq,PAIRED,B cells,RA,,,Synovium,,135,Illumina NovaSeq 6000,2022_Meednu N,GSE196150,未开始,,未开始,软骨
+SAMN25653296,,,,SRR17886420,scRNA-seq,PAIRED,B cells,RA,,,Synovium,,135,Illumina NovaSeq 6000,2022_Meednu N,GSE196150,未开始,,未开始,软骨
+SAMN25653298,,,,SRR17886424,scRNA-seq,PAIRED,B cells,RA,,,Synovium,,135,Illumina NovaSeq 6000,2022_Meednu N,GSE196150,未开始,,未开始,软骨
+SAMN25653299,,,,SRR17886426,scRNA-seq,PAIRED,B cells,RA,,,Synovium,,135,Illumina NovaSeq 6000,2022_Meednu N,GSE196150,未开始,,未开始,软骨
+SAMN25653300,,,,SRR17886428,scRNA-seq,PAIRED,B cells,RA,,,blood,,135,Illumina NovaSeq 6000,2022_Meednu N,GSE196150,未开始,,未开始,软骨
+SAMN25653298,,,,SRR17886425,scRNA-seq,PAIRED,B cells,RA,,,Synovium,,135,Illumina NovaSeq 6000,2022_Meednu N,GSE196150,未开始,,未开始,软骨
+SAMN25653296,,,,SRR17886421,scRNA-seq,PAIRED,B cells,RA,,,Synovium,,135,Illumina NovaSeq 6000,2022_Meednu N,GSE196150,未开始,,未开始,软骨
+SAMN25653297,,,,SRR17886423,scRNA-seq,PAIRED,B cells,RA,,,Synovium,,135,Illumina NovaSeq 6000,2022_Meednu N,GSE196150,未开始,,未开始,软骨
+SAMN25653299,,,,SRR17886427,scRNA-seq,PAIRED,B cells,RA,,,Synovium,,135,Illumina NovaSeq 6000,2022_Meednu N,GSE196150,未开始,,未开始,软骨
+SAMN25653300,,,,SRR17886429,scRNA-seq,PAIRED,B cells,RA,,,blood,,135,Illumina NovaSeq 6000,2022_Meednu N,GSE196150,未开始,,未开始,软骨
+SAMEA5952669,,24,male,ERR3517533,scRNA-seq,SINGLE,macrophage,normal,Healthy control,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952669,,24,male,ERR3517534,scRNA-seq,SINGLE,macrophage,normal,Healthy control,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952669,,24,male,ERR3517535,scRNA-seq,SINGLE,macrophage,normal,Healthy control,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952670,,48,male,ERR3517536,scRNA-seq,SINGLE,macrophage,normal,Healthy control,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952670,,48,male,ERR3517537,scRNA-seq,SINGLE,macrophage,normal,Healthy control,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952670,,48,male,ERR3517538,scRNA-seq,SINGLE,macrophage,normal,Healthy control,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952671,,22,male,ERR3517539,scRNA-seq,SINGLE,macrophage,normal,Healthy control,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952671,,22,male,ERR3517540,scRNA-seq,SINGLE,macrophage,normal,Healthy control,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952671,,22,male,ERR3517541,scRNA-seq,SINGLE,macrophage,normal,Healthy control,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952672,,26,female,ERR3517542,scRNA-seq,SINGLE,macrophage,normal,Healthy control,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952672,,26,female,ERR3517543,scRNA-seq,SINGLE,macrophage,normal,Healthy control,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952672,,26,female,ERR3517544,scRNA-seq,SINGLE,macrophage,normal,Healthy control,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952673,,65,female,ERR3517545,scRNA-seq,SINGLE,macrophage,RA,Naive to treament rheumatoid Arthritis,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952673,,65,female,ERR3517546,scRNA-seq,SINGLE,macrophage,RA,Naive to treament rheumatoid Arthritis,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952673,,65,female,ERR3517547,scRNA-seq,SINGLE,macrophage,RA,Naive to treament rheumatoid Arthritis,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952674,,53,female,ERR3517548,scRNA-seq,SINGLE,macrophage,RA,Naive to treament rheumatoid Arthritis,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952674,,53,female,ERR3517549,scRNA-seq,SINGLE,macrophage,RA,Naive to treament rheumatoid Arthritis,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952674,,53,female,ERR3517550,scRNA-seq,SINGLE,macrophage,RA,Naive to treament rheumatoid Arthritis,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952675,,77,female,ERR3517551,scRNA-seq,SINGLE,macrophage,RA,Naive to treament rheumatoid Arthritis,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952676,,56,female,ERR3517552,scRNA-seq,SINGLE,macrophage,RA,Naive to treament rheumatoid Arthritis,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952677,,66,female,ERR3517553,scRNA-seq,SINGLE,macrophage,RA,Naive to treament rheumatoid Arthritis,,Synovium,,74,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952677,,66,female,ERR3517554,scRNA-seq,SINGLE,macrophage,RA,Naive to treament rheumatoid Arthritis,,Synovium,,74,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952677,,66,female,ERR3517555,scRNA-seq,SINGLE,macrophage,RA,Naive to treament rheumatoid Arthritis,,Synovium,,74,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952677,,66,female,ERR3517556,scRNA-seq,SINGLE,macrophage,RA,Naive to treament rheumatoid Arthritis,,Synovium,,74,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952678,,65,female,ERR3517557,scRNA-seq,SINGLE,macrophage,RA,Naive to treament rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952678,,65,female,ERR3517558,scRNA-seq,SINGLE,macrophage,RA,Naive to treament rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952678,,65,female,ERR3517559,scRNA-seq,SINGLE,macrophage,RA,Naive to treament rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952678,,65,female,ERR3517560,scRNA-seq,SINGLE,macrophage,RA,Naive to treament rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952678,,65,female,ERR3517561,scRNA-seq,SINGLE,macrophage,RA,Naive to treament rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952678,,65,female,ERR3517562,scRNA-seq,SINGLE,macrophage,RA,Naive to treament rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952678,,65,female,ERR3517563,scRNA-seq,SINGLE,macrophage,RA,Naive to treament rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952678,,65,female,ERR3517564,scRNA-seq,SINGLE,macrophage,RA,Naive to treament rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952679,,52,female,ERR3517565,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952679,,52,female,ERR3517566,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952679,,52,female,ERR3517567,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952680,,62,female,ERR3517569,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952680,,62,female,ERR3517571,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952680,,62,female,ERR3517574,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952681,,72,female,ERR3517575,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952681,,72,female,ERR3517578,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952681,,72,female,ERR3517579,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952682,,51,female,ERR3517581,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952683,,66,female,ERR3517584,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952683,,66,female,ERR3517585,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952683,,66,female,ERR3517587,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952683,,66,female,ERR3517589,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952683,,66,female,ERR3517591,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952683,,66,female,ERR3517594,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952683,,66,female,ERR3517596,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952683,,66,female,ERR3517597,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952684,,50,female,ERR3517600,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952684,,50,female,ERR3517602,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952684,,50,female,ERR3517603,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952684,,50,female,ERR3517606,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952684,,50,female,ERR3517608,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952684,,50,female,ERR3517609,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952684,,50,female,ERR3517611,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952684,,50,female,ERR3517613,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952685,,42,female,ERR3517616,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952685,,42,female,ERR3517618,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952685,,42,female,ERR3517620,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952685,,42,female,ERR3517621,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952685,,42,female,ERR3517623,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952685,,42,female,ERR3517625,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952685,,42,female,ERR3517628,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952685,,42,female,ERR3517629,scRNA-seq,SINGLE,macrophage,RA,remission rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952686,,58,female,ERR3517631,scRNA-seq,SINGLE,macrophage,RA,resitant to treament rheumatoid Arthritis,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952686,,58,female,ERR3517633,scRNA-seq,SINGLE,macrophage,RA,resitant to treament rheumatoid Arthritis,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952686,,58,female,ERR3517635,scRNA-seq,SINGLE,macrophage,RA,resitant to treament rheumatoid Arthritis,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952687,,60,female,ERR3517638,scRNA-seq,SINGLE,macrophage,RA,resitant to treament rheumatoid Arthritis,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952687,,60,female,ERR3517640,scRNA-seq,SINGLE,macrophage,RA,resitant to treament rheumatoid Arthritis,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952687,,60,female,ERR3517641,scRNA-seq,SINGLE,macrophage,RA,resitant to treament rheumatoid Arthritis,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952688,,63,female,ERR3517643,scRNA-seq,SINGLE,macrophage,RA,resitant to treament rheumatoid Arthritis,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952688,,63,female,ERR3517645,scRNA-seq,SINGLE,macrophage,RA,resitant to treament rheumatoid Arthritis,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952688,,63,female,ERR3517647,scRNA-seq,SINGLE,macrophage,RA,resitant to treament rheumatoid Arthritis,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952689,,56,female,ERR3517649,scRNA-seq,SINGLE,macrophage,RA,resitant to treament rheumatoid Arthritis,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952689,,56,female,ERR3517651,scRNA-seq,SINGLE,macrophage,RA,resitant to treament rheumatoid Arthritis,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952689,,56,female,ERR3517653,scRNA-seq,SINGLE,macrophage,RA,resitant to treament rheumatoid Arthritis,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952690,,60,female,ERR3517655,scRNA-seq,SINGLE,macrophage,RA,resitant to treament rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952690,,60,female,ERR3517657,scRNA-seq,SINGLE,macrophage,RA,resitant to treament rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952690,,60,female,ERR3517659,scRNA-seq,SINGLE,macrophage,RA,resitant to treament rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952690,,60,female,ERR3517661,scRNA-seq,SINGLE,macrophage,RA,resitant to treament rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952690,,60,female,ERR3517663,scRNA-seq,SINGLE,macrophage,RA,resitant to treament rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952690,,60,female,ERR3517665,scRNA-seq,SINGLE,macrophage,RA,resitant to treament rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952690,,60,female,ERR3517668,scRNA-seq,SINGLE,macrophage,RA,resitant to treament rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952690,,60,female,ERR3517669,scRNA-seq,SINGLE,macrophage,RA,resitant to treament rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952691,,57,female,ERR3517672,scRNA-seq,SINGLE,macrophage,RA,resitant to treament rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952691,,57,female,ERR3517673,scRNA-seq,SINGLE,macrophage,RA,resitant to treament rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952691,,57,female,ERR3517675,scRNA-seq,SINGLE,macrophage,RA,resitant to treament rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952691,,57,female,ERR3517678,scRNA-seq,SINGLE,macrophage,RA,resitant to treament rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952691,,57,female,ERR3517679,scRNA-seq,SINGLE,macrophage,RA,resitant to treament rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952691,,57,female,ERR3517682,scRNA-seq,SINGLE,macrophage,RA,resitant to treament rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952691,,57,female,ERR3517683,scRNA-seq,SINGLE,macrophage,RA,resitant to treament rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952691,,57,female,ERR3517685,scRNA-seq,SINGLE,macrophage,RA,resitant to treament rheumatoid Arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952692,,65,female,ERR3517687,scRNA-seq,SINGLE,macrophage,undifferentiated arthritis,Undifferentiated arthritis,,Synovium,,98,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952693,,65,female,ERR3517689,scRNA-seq,SINGLE,macrophage,undifferentiated arthritis,Undifferentiated arthritis,,Synovium,,74,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952693,,65,female,ERR3517693,scRNA-seq,SINGLE,macrophage,undifferentiated arthritis,Undifferentiated arthritis,,Synovium,,74,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952693,,65,female,ERR3517695,scRNA-seq,SINGLE,macrophage,undifferentiated arthritis,Undifferentiated arthritis,,Synovium,,74,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952693,,65,female,ERR3517698,scRNA-seq,SINGLE,macrophage,undifferentiated arthritis,Undifferentiated arthritis,,Synovium,,74,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952694,,51,female,ERR3517701,scRNA-seq,SINGLE,macrophage,undifferentiated arthritis,Undifferentiated arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952694,,51,female,ERR3517704,scRNA-seq,SINGLE,macrophage,undifferentiated arthritis,Undifferentiated arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952694,,51,female,ERR3517709,scRNA-seq,SINGLE,macrophage,undifferentiated arthritis,Undifferentiated arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952694,,51,female,ERR3517710,scRNA-seq,SINGLE,macrophage,undifferentiated arthritis,Undifferentiated arthritis,,Synovium,,129,NextSeq 500,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952695,,62,female,ERR3517713,scRNA-seq,SINGLE,macrophage,undifferentiated arthritis,Undifferentiated arthritis,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952695,,62,female,ERR3517716,scRNA-seq,SINGLE,macrophage,undifferentiated arthritis,Undifferentiated arthritis,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMEA5952695,,62,female,ERR3517719,scRNA-seq,SINGLE,macrophage,undifferentiated arthritis,Undifferentiated arthritis,,Synovium,,98,Illumina HiSeq 4000,2020_Alivernini S,E-MTAB-8322,未开始,,未开始,软骨
+SAMN08433022,,,,SRR6704837,scRNA-seq,PAIRED,Synoviocytes,RA,,,synovial tissue from knee,,56,Illumina HiSeq 2500,2018_Stephenson W,PRJNA431832 ,quit,,dbGap,软骨
+SAMN08433025,,,,SRR6704838,scRNA-seq,PAIRED,Synoviocytes,RA,,,synovial tissue from knee,,56,Illumina HiSeq 2500,2018_Stephenson W,PRJNA431832 ,quit,,dbGap,软骨
+SAMN08433033,,,,SRR6704839,scRNA-seq,PAIRED,Synoviocytes,RA,,,synovial tissue from knee,,56,Illumina HiSeq 2500,2018_Stephenson W,PRJNA431832 ,quit,,dbGap,软骨
+SAMN08433032,,,,SRR6704840,scRNA-seq,PAIRED,Synoviocytes,RA,,,synovial tissue from knee,,56,Illumina HiSeq 2500,2018_Stephenson W,PRJNA431832 ,quit,,dbGap,软骨
+SAMN08433023,,,,SRR6704841,scRNA-seq,PAIRED,Synoviocytes,RA,,,synovial tissue from knee,,56,Illumina HiSeq 2500,2018_Stephenson W,PRJNA431832 ,quit,,dbGap,软骨
+SAMN08433026,,,,SRR6704842,scRNA-seq,PAIRED,Synoviocytes,RA,,,synovial tissue from knee,,56,Illumina HiSeq 2500,2018_Stephenson W,PRJNA431832 ,quit,,dbGap,软骨
+SAMN08433036,,,,SRR6704843,scRNA-seq,PAIRED,Synoviocytes,RA,,,synovial tissue from knee,,56,Illumina HiSeq 2500,2018_Stephenson W,PRJNA431832 ,quit,,dbGap,软骨
+SAMN08433030,,,,SRR6704844,scRNA-seq,PAIRED,Synoviocytes,RA,,,synovial tissue from knee,,56,Illumina HiSeq 2500,2018_Stephenson W,PRJNA431832 ,quit,,dbGap,软骨
+SAMN08433034,,,,SRR6704845,scRNA-seq,PAIRED,Synoviocytes,RA,,,synovial tissue from knee,,56,Illumina HiSeq 2500,2018_Stephenson W,PRJNA431832 ,quit,,dbGap,软骨
+SAMN08433028,,,,SRR6704846,scRNA-seq,PAIRED,Synoviocytes,RA,,,synovial tissue from knee,,56,Illumina HiSeq 2500,2018_Stephenson W,PRJNA431832 ,quit,,dbGap,软骨
+SAMN08433038,,,,SRR6704847,scRNA-seq,PAIRED,Synoviocytes,RA,,,synovial tissue from knee,,56,Illumina HiSeq 2500,2018_Stephenson W,PRJNA431832 ,quit,,dbGap,软骨
+SAMN08433035,,,,SRR6704848,scRNA-seq,PAIRED,Synoviocytes,RA,,,synovial tissue from knee,,56,Illumina HiSeq 2500,2018_Stephenson W,PRJNA431832 ,quit,,dbGap,软骨
+SAMN08433029,,,,SRR6704849,scRNA-seq,PAIRED,Synoviocytes,RA,,,synovial tissue from knee,,56,Illumina HiSeq 2500,2018_Stephenson W,PRJNA431832 ,quit,,dbGap,软骨
+SAMN08433031,,,,SRR6704850,scRNA-seq,PAIRED,Synoviocytes,RA,,,synovial tissue from knee,,56,Illumina HiSeq 2500,2018_Stephenson W,PRJNA431832 ,quit,,dbGap,软骨
+SAMN08433037,,,,SRR6704851,scRNA-seq,PAIRED,Synoviocytes,RA,,,synovial tissue from knee,,56,Illumina HiSeq 2500,2018_Stephenson W,PRJNA431832 ,quit,,dbGap,软骨
+SAMN08433027,,,,SRR6704852,scRNA-seq,PAIRED,Synoviocytes,RA,,,synovial tissue from knee,,56,Illumina HiSeq 2500,2018_Stephenson W,PRJNA431832 ,quit,,dbGap,软骨
+SAMN08433024,,,,SRR6704853,scRNA-seq,PAIRED,Synoviocytes,RA,,,synovial tissue from knee,,56,Illumina HiSeq 2500,2018_Stephenson W,PRJNA431832 ,quit,,dbGap,软骨
+SAMN19117458,,,,SRR14511576,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,127,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+SAMN19117458,,,,SRR14511577,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,127,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+SAMN19117457,,,,SRR14511578,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,127,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+SAMN19117457,,,,SRR14511579,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,127,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+SAMN19117455,,,,SRR14511580,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,127,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+SAMN19117455,,,,SRR14511581,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,127,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+SAMN19117454,,,,SRR14511582,scRNA-seq,PAIRED,neuron cell,c9ALS,,,motor cortex,,127,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+SAMN19117454,,,,SRR14511583,scRNA-seq,PAIRED,neuron cell,c9ALS,,,motor cortex,,127,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+SAMN19117453,,,,SRR14511584,scRNA-seq,PAIRED,neuron cell,c9ALS,,,motor cortex,,127,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+SAMN19117453,,,,SRR14511585,scRNA-seq,PAIRED,neuron cell,c9ALS,,,motor cortex,,127,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+SAMN19117452,,,,SRR14511586,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,127,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+SAMN19117452,,,,SRR14511587,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,127,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+SAMN19117451,,,,SRR14511588,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,127,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+SAMN19117451,,,,SRR14511589,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,127,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+SAMN19117450,,,,SRR14511590,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,127,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+SAMN19117450,,,,SRR14511591,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,127,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+SAMN19117449,,,,SRR14511592,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,127,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+SAMN19117449,,,,SRR14511593,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,127,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+SAMN19117448,,,,SRR14511594,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,127,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+SAMN19117448,,,,SRR14511595,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,127,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+SAMN19117447,,,,SRR14511596,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,127,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+SAMN19117447,,,,SRR14511597,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,127,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+SAMN19117446,,,,SRR14511598,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,127,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+SAMN19117446,,,,SRR14511599,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,127,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+SAMN19117445,,,,SRR14511600,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,127,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+SAMN19117445,,,,SRR14511601,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,127,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+SAMN19117444,,,,SRR14511602,scRNA-seq,PAIRED,neuron cell,c9ALS,,,motor cortex,,127,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+SAMN19117444,,,,SRR14511603,scRNA-seq,PAIRED,neuron cell,c9ALS,,,motor cortex,,127,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+SAMN19117443,,,,SRR14511604,scRNA-seq,PAIRED,neuron cell,c9ALS,,,motor cortex,,127,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+SAMN19117443,,,,SRR14511605,scRNA-seq,PAIRED,neuron cell,c9ALS,,,motor cortex,,127,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+SAMN19117442,,,,SRR14511606,scRNA-seq,PAIRED,neuron cell,c9ALS,,,motor cortex,,127,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+SAMN19117442,,,,SRR14511607,scRNA-seq,PAIRED,neuron cell,c9ALS,,,motor cortex,,127,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+SAMN19117471,,,,SRR14511678,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,113,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,Extremely low rate of correct barcodes was observed for a chemistry,分析bug,肌肉
+SAMN19117471,,,,SRR14511679,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,113,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,Extremely low rate of correct barcodes was observed for a chemistry,分析bug,肌肉
+SAMN19117470,,,,SRR14511680,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,113,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,Extremely low rate of correct barcodes was observed for a chemistry,分析bug,肌肉
+SAMN19117470,,,,SRR14511681,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,113,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,Extremely low rate of correct barcodes was observed for a chemistry,分析bug,肌肉
+SAMN19117469,,,,SRR14511682,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,113,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,Extremely low rate of correct barcodes was observed for a chemistry,分析bug,肌肉
+SAMN19117469,,,,SRR14511683,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,113,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,Extremely low rate of correct barcodes was observed for a chemistry,分析bug,肌肉
+SAMN19117431,,,,SRR14511684,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,113,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,Extremely low rate of correct barcodes was observed for a chemistry,分析bug,肌肉
+SAMN19117431,,,,SRR14511685,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,113,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,Extremely low rate of correct barcodes was observed for a chemistry,分析bug,肌肉
+SAMN19117430,,,,SRR14511686,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,113,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,Extremely low rate of correct barcodes was observed for a chemistry,分析bug,肌肉
+SAMN19117430,,,,SRR14511687,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,113,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,Extremely low rate of correct barcodes was observed for a chemistry,分析bug,肌肉
+SAMN19117497,,,,SRR14511688,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,113,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,Extremely low rate of correct barcodes was observed for a chemistry,分析bug,肌肉
+SAMN19117497,,,,SRR14511689,scRNA-seq,PAIRED,neuron cell,sALS,,,motor cortex,,113,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,Extremely low rate of correct barcodes was observed for a chemistry,分析bug,肌肉
+SAMN19117468,,,,SRR14511690,scRNA-seq,PAIRED,neuron cell,c9ALS,,,motor cortex,,113,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,Extremely low rate of correct barcodes was observed for a chemistry,分析bug,肌肉
+SAMN19117468,,,,SRR14511691,scRNA-seq,PAIRED,neuron cell,c9ALS,,,motor cortex,,113,Illumina NovaSeq 6000,2021_Pineda SS,GSE174332,scp done,Extremely low rate of correct barcodes was observed for a chemistry,分析bug,肌肉
+SAMN10473103,,,female,SRR8239854,scRNA-seq,PAIRED,muscle cells,Facioscapulohumeral muscular dystrophy,,,muscle tissue,,146,NextSeq 500,2019_van den Heuvel A,GSE122873,scp done,Dumped into 4 fastq files; Extremely low rate of correct barcodes was observed for a chemistry,分析bug,肌肉
+SAMN10473100,,,female,SRR8239857,scRNA-seq,PAIRED,muscle cells,healthy control,,,muscle tissue,,146,NextSeq 500,2019_van den Heuvel A,GSE122873,scp done,Dumped into 4 fastq files; Extremely low rate of correct barcodes was observed for a chemistry,分析bug,肌肉
+SAMN10473098,,,male,SRR8239853,scRNA-seq,PAIRED,muscle cells,Facioscapulohumeral muscular dystrophy,,,muscle tissue,,138,NextSeq 500,2019_van den Heuvel A,GSE122873,scp done,Segmentation fault (file too large),分析bug,肌肉
+SAMN10473102,,,female,SRR8239855,scRNA-seq,PAIRED,muscle cells,Facioscapulohumeral muscular dystrophy,,,muscle tissue,,132,NextSeq 500,2019_van den Heuvel A,GSE122873,scp done,Dumped into 4 fastq files; Extremely low rate of correct barcodes was observed for a chemistry,分析bug,肌肉
+SAMN10473101,,,female,SRR8239856,scRNA-seq,PAIRED,muscle cells,Facioscapulohumeral muscular dystrophy,,,muscle tissue,,132,NextSeq 500,2019_van den Heuvel A,GSE122873,scp done,Dumped into 4 fastq files; Extremely low rate of correct barcodes was observed for a chemistry,分析bug,肌肉
+SAMN10473099,,,female,SRR8239858,scRNA-seq,PAIRED,muscle cells,healthy control,,,muscle tissue,,146,NextSeq 500,2019_van den Heuvel A,GSE122873,scp done,Dumped into 4 fastq files; Extremely low rate of correct barcodes was observed for a chemistry,分析bug,肌肉
+GSM4431280,,,,SRR11402937,scRNA-seq,PAIRED,muscle cells,embryonic,,,whole hindlimb,embryonic week 5,202,Illumina HiSeq 4000,2020_Xi H,GSE147457,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+GSM4431281,,,,SRR11402938,scRNA-seq,PAIRED,muscle cells,embryonic,,,whole hindlimb,embryonic week 5,102,Illumina NovaSeq 6000,2020_Xi H,GSE147457,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+GSM4431282,,,,SRR11402939,scRNA-seq,PAIRED,muscle cells,embryonic,,,whole hindlimb,embryonic week 6,202,Illumina HiSeq 4000,2020_Xi H,GSE147457,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+GSM4431283,,,,SRR11402940,scRNA-seq,PAIRED,muscle cells,embryonic,,,whole hindlimb,embryonic week 6,202,Illumina HiSeq 4000,2020_Xi H,GSE147457,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+GSM4431284,,,,SRR11402941,scRNA-seq,PAIRED,muscle cells,embryonic,,,whole hindlimb,embryonic week 6.5,202,Illumina HiSeq 4000,2020_Xi H,GSE147457,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+GSM4431285,,,,SRR11402942,scRNA-seq,PAIRED,muscle cells,embryonic,,,whole hindlimb,embryonic week 7,202,Illumina HiSeq 4000,2020_Xi H,GSE147457,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+GSM4431286,,,,SRR11402943,scRNA-seq,PAIRED,muscle cells,embryonic,,,whole hindlimb,embryonic week 7,202,Illumina HiSeq 4000,2020_Xi H,GSE147457,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+GSM4431287,,,,SRR11402944,scRNA-seq,PAIRED,muscle cells,embryonic,,,whole hindlimb,embryonic week 7,202,Illumina HiSeq 4000,2020_Xi H,GSE147457,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+GSM4431288,,,,SRR11402945,scRNA-seq,PAIRED,muscle cells,embryonic,,,whole hindlimb,embryonic week 7.26,202,Illumina HiSeq 4000,2020_Xi H,GSE147457,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+GSM4431289,,,,SRR11402946,scRNA-seq,PAIRED,muscle cells,embryonic,,,whole hindlimb,embryonic week 7.26,102,Illumina NovaSeq 6000,2020_Xi H,GSE147457,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+GSM4431290,,,,SRR11402947,scRNA-seq,PAIRED,muscle cells,embryonic,,,whole hindlimb excluding feet,embryonic week 7.76,102,Illumina HiSeq 2500,2020_Xi H,GSE147457,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+GSM4431291,,,,SRR11402948,scRNA-seq,PAIRED,muscle cells,fetal,,,whole hindlimb excluding feet,fetal week 9,202,Illumina HiSeq 4000,2020_Xi H,GSE147457,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+GSM4431292,,,,SRR11402949,scRNA-seq,PAIRED,muscle cells,fetal,,,whole hindlimb excluding feet,fetal week 9,202,Illumina HiSeq 4000,2020_Xi H,GSE147457,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+GSM4431293,,,,SRR11402950,scRNA-seq,PAIRED,muscle cells,fetal,,,hindlimb skeletal muscles,fetal week 12,202,Illumina HiSeq 4000,2020_Xi H,GSE147457,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+GSM4431294,,,,SRR11402951,scRNA-seq,PAIRED,muscle cells,fetal,,,hindlimb skeletal muscles,fetal week 14,202,Illumina HiSeq 4000,2020_Xi H,GSE147457,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+GSM4431295,,,,SRR11402952,scRNA-seq,PAIRED,muscle cells,fetal,,,hindlimb skeletal muscles,fetal week 17,102,Illumina HiSeq 2500,2020_Xi H,GSE147457,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+GSM4431296,,,,SRR11402953,scRNA-seq,PAIRED,muscle cells,fetal,,,hindlimb skeletal muscles,fetal week 18,102,Illumina HiSeq 2500,2020_Xi H,GSE147457,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+GSM4431297,,,,SRR11402954,scRNA-seq,PAIRED,muscle cells,juvenile,,,gastrocnemius muscle,juvenile year 7,102,Illumina HiSeq 2500,2020_Xi H,GSE147457,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+GSM4431298,,,,SRR11402955,scRNA-seq,PAIRED,muscle cells,juvenile,,,quadriceps muscle,juvenile year 11,202,Illumina HiSeq 4000,2020_Xi H,GSE147457,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+GSM4431299,,,,SRR11402956,scRNA-seq,PAIRED,muscle cells,adult,,,quadriceps muscle,adult year 34,102,Illumina HiSeq 2500,2020_Xi H,GSE147457,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+GSM4431300,,,,SRR11402957,scRNA-seq,PAIRED,muscle cells,adult,,,quadriceps muscle,adult year 42,202,Illumina HiSeq 4000,2020_Xi H,GSE147457,scp done,At least 50% of the reads should exceed the minimum length,分析bug,肌肉
+SAMN14911592,,,,SRR11784373,scRNA-seq,PAIRED,tendon progenitor cells,Normal,,,tendon,,76,Illumina HiSeq 4000,2021_Still C 2nd,GSE150482,未开始,,未开始,肌腱
+SAMN14911591,,,,SRR11784374,scRNA-seq,PAIRED,tendon progenitor cells,Tendinopathy,,,tendon,,76,Illumina HiSeq 4000,2021_Still C 2nd,GSE150482,未开始,,未开始,肌腱
+SAMN14911590,,,,SRR11784375,scRNA-seq,PAIRED,tendon progenitor cells,Normal,,,tendon,,300,Illumina NovaSeq 6000,2021_Still C 2nd,GSE150482,未开始,,未开始,肌腱
+SAMN14911589,,,,SRR11784376,scRNA-seq,PAIRED,tendon progenitor cells,Tendinopathy,,,tendon,,300,Illumina NovaSeq 6000,2021_Still C 2nd,GSE150482,未开始,,未开始,肌腱
+SAMN14911612,,,,SRR11784377,scRNA-seq,PAIRED,tendon progenitor cells,,,,,,53,Illumina MiSeq,2021_Still C 2nd,GSE150482,未开始,,未开始,肌腱
+SAMN14911611,,,,SRR11784378,scRNA-seq,PAIRED,tendon progenitor cells,,,,,,53,Illumina MiSeq,2021_Still C 2nd,GSE150482,未开始,,未开始,肌腱
+SAMN15893659,,,,SRR12507504,scRNA-seq,PAIRED,iPSC,,,,iPSC,,127,Illumina HiSeq 2500,2021_Nakajima T,GSE156753,未开始,,未开始,肌腱
+SAMN15893658,,,,SRR12507505,scRNA-seq,PAIRED,iPS-derived mesoderm,,,,iPSC,,127,Illumina HiSeq 2500,2021_Nakajima T,GSE156753,未开始,,未开始,肌腱
+SAMN15893657,,,,SRR12507506,scRNA-seq,PAIRED,iPS-derived mesoderm,,,,iPSC,,127,Illumina HiSeq 2500,2021_Nakajima T,GSE156753,未开始,,未开始,肌腱
+SAMN15893656,,,,SRR12507507,scRNA-seq,PAIRED,iPS-derived syndetome,,,,iPSC,,127,Illumina HiSeq 2500,2021_Nakajima T,GSE156753,未开始,,未开始,肌腱
+SAMN15893654,,,,SRR12507508,scRNA-seq,PAIRED,iPS-derived syndetome,,,,iPSC,,127,Illumina HiSeq 2500,2021_Nakajima T,GSE156753,未开始,,未开始,肌腱
+SAMN15893652,,,,SRR12507509,scRNA-seq,PAIRED,iPS-derived syndetome,,,,iPSC,,127,Illumina HiSeq 2500,2021_Nakajima T,GSE156753,未开始,,未开始,肌腱
+SAMN15893651,,,,SRR12507510,scRNA-seq,PAIRED,iPS-derived syndetome,,,,iPSC,,127,Illumina HiSeq 2500,2021_Nakajima T,GSE156753,未开始,,未开始,肌腱
+SAMN15893650,,,,SRR12507511,scRNA-seq,PAIRED,iPS-derived syndetome,,,,iPSC,,127,Illumina HiSeq 2500,2021_Nakajima T,GSE156753,未开始,,未开始,肌腱
+SAMN15893649,,,,SRR12507512,scRNA-seq,PAIRED,tenocyte,,,,iPSC,,127,Illumina HiSeq 2500,2021_Nakajima T,GSE156753,未开始,,未开始,肌腱
+SAMN16644284,,18 year-old,,SRR12973953,scRNA-seq,PAIRED,intervertebral disc cell,,,,nucleus pulposus,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644284,,18 year-old,,SRR12973954,scRNA-seq,PAIRED,intervertebral disc cell,,,,nucleus pulposus,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644284,,18 year-old,,SRR12973955,scRNA-seq,PAIRED,intervertebral disc cell,,,,nucleus pulposus,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644284,,18 year-old,,SRR12973956,scRNA-seq,PAIRED,intervertebral disc cell,,,,nucleus pulposus,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644284,,18 year-old,,SRR12973957,scRNA-seq,PAIRED,intervertebral disc cell,,,,nucleus pulposus,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644284,,18 year-old,,SRR12973958,scRNA-seq,PAIRED,intervertebral disc cell,,,,nucleus pulposus,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644284,,18 year-old,,SRR12973959,scRNA-seq,PAIRED,intervertebral disc cell,,,,nucleus pulposus,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644284,,18 year-old,,SRR12973960,scRNA-seq,PAIRED,intervertebral disc cell,,,,nucleus pulposus,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644283,,31 year-old,,SRR12973961,scRNA-seq,PAIRED,intervertebral disc cell,,,,nucleus pulposus,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644283,,31 year-old,,SRR12973962,scRNA-seq,PAIRED,intervertebral disc cell,,,,nucleus pulposus,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644283,,31 year-old,,SRR12973963,scRNA-seq,PAIRED,intervertebral disc cell,,,,nucleus pulposus,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644283,,31 year-old,,SRR12973964,scRNA-seq,PAIRED,intervertebral disc cell,,,,nucleus pulposus,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644282,,31 year-old,,SRR12973965,scRNA-seq,PAIRED,intervertebral disc cell,,,,nucleus pulposus,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644282,,31 year-old,,SRR12973966,scRNA-seq,PAIRED,intervertebral disc cell,,,,nucleus pulposus,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644282,,31 year-old,,SRR12973967,scRNA-seq,PAIRED,intervertebral disc cell,,,,nucleus pulposus,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644282,,31 year-old,,SRR12973968,scRNA-seq,PAIRED,intervertebral disc cell,,,,nucleus pulposus,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644281,,31 year-old,,SRR12973969,scRNA-seq,PAIRED,intervertebral disc cell,,,,cartilage endplate,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644281,,31 year-old,,SRR12973970,scRNA-seq,PAIRED,intervertebral disc cell,,,,cartilage endplate,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644281,,31 year-old,,SRR12973971,scRNA-seq,PAIRED,intervertebral disc cell,,,,cartilage endplate,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644281,,31 year-old,,SRR12973972,scRNA-seq,PAIRED,intervertebral disc cell,,,,cartilage endplate,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644280,,31 year-old,,SRR12973973,scRNA-seq,PAIRED,intervertebral disc cell,,,,cartilage endplate,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644280,,31 year-old,,SRR12973974,scRNA-seq,PAIRED,intervertebral disc cell,,,,cartilage endplate,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644280,,31 year-old,,SRR12973975,scRNA-seq,PAIRED,intervertebral disc cell,,,,cartilage endplate,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644280,,31 year-old,,SRR12973976,scRNA-seq,PAIRED,intervertebral disc cell,,,,cartilage endplate,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644279,,31 year-old,,SRR12973977,scRNA-seq,PAIRED,intervertebral disc cell,,,,annulus fibrosus,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644279,,31 year-old,,SRR12973978,scRNA-seq,PAIRED,intervertebral disc cell,,,,annulus fibrosus,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644279,,31 year-old,,SRR12973979,scRNA-seq,PAIRED,intervertebral disc cell,,,,annulus fibrosus,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644279,,31 year-old,,SRR12973980,scRNA-seq,PAIRED,intervertebral disc cell,,,,annulus fibrosus,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644279,,31 year-old,,SRR12973981,scRNA-seq,PAIRED,intervertebral disc cell,,,,annulus fibrosus,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644279,,31 year-old,,SRR12973982,scRNA-seq,PAIRED,intervertebral disc cell,,,,annulus fibrosus,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644279,,31 year-old,,SRR12973983,scRNA-seq,PAIRED,intervertebral disc cell,,,,annulus fibrosus,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644279,,31 year-old,,SRR12973984,scRNA-seq,PAIRED,intervertebral disc cell,,,,annulus fibrosus,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644278,,31 year-old,,SRR12973985,scRNA-seq,PAIRED,intervertebral disc cell,,,,annulus fibrosus,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644278,,31 year-old,,SRR12973986,scRNA-seq,PAIRED,intervertebral disc cell,,,,annulus fibrosus,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644278,,31 year-old,,SRR12973987,scRNA-seq,PAIRED,intervertebral disc cell,,,,annulus fibrosus,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644278,,31 year-old,,SRR12973988,scRNA-seq,PAIRED,intervertebral disc cell,,,,annulus fibrosus,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644278,,31 year-old,,SRR12973989,scRNA-seq,PAIRED,intervertebral disc cell,,,,annulus fibrosus,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644278,,31 year-old,,SRR12973990,scRNA-seq,PAIRED,intervertebral disc cell,,,,annulus fibrosus,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644278,,31 year-old,,SRR12973991,scRNA-seq,PAIRED,intervertebral disc cell,,,,annulus fibrosus,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN16644278,,31 year-old,,SRR12973992,scRNA-seq,PAIRED,intervertebral disc cell,,,,annulus fibrosus,,186,HiSeq X Ten,2021_Gan Y,GSE160756,scp done,,完成,椎间盘
+SAMN27145897,,,,SRR18559764,scRNA-seq,PAIRED,nucleus pulposus cell,,,,Human disc tissue,,124,Illumina HiSeq 4000,2022_Cherif H,GSE199866,scp done,At least 50% of the reads should exceed the minimum length,分析bug,椎间盘
+SAMN27145902,,,,SRR18559766,scRNA-seq,PAIRED,nucleus pulposus cell,,,,Human disc tissue,,124,Illumina HiSeq 4000,2022_Cherif H,GSE199866,scp done,At least 50% of the reads should exceed the minimum length,分析bug,椎间盘
+SAMN27145905,,,,SRR18559767,scRNA-seq,PAIRED,annulus fibrosis cell,,,,Human disc tissue,,124,Illumina HiSeq 4000,2022_Cherif H,GSE199866,scp done,At least 50% of the reads should exceed the minimum length,分析bug,椎间盘
+SAMN27145900,,,,SRR18559765,scRNA-seq,PAIRED,annulus fibrosis cell,,,,Human disc tissue,,124,Illumina HiSeq 4000,2022_Cherif H,GSE199866,scp done,At least 50% of the reads should exceed the minimum length,分析bug,椎间盘
+SAMN23523927,,Neonatal,,SRR17078564,scRNA-seq,PAIRED,intervertebral disc cell,,,,Human disc tissue,,127,Illumina NovaSeq 6000,2021_Jiang W,GSE189916,scp done,,完成,椎间盘
+SAMN23523926,,Neonatal,,SRR17078561,scRNA-seq,PAIRED,intervertebral disc cell,,,,Human disc tissue,,127,Illumina NovaSeq 6000,2021_Jiang W,GSE189916,scp done,,完成,椎间盘
+SAMN23523926,,Neonatal,,SRR17078562,scRNA-seq,PAIRED,intervertebral disc cell,,,,Human disc tissue,,127,Illumina NovaSeq 6000,2021_Jiang W,GSE189916,scp done,,完成,椎间盘
+SAMN23523928,,Neonatal,,SRR17078566,scRNA-seq,PAIRED,intervertebral disc cell,,,,Human disc tissue,,127,Illumina NovaSeq 6000,2021_Jiang W,GSE189916,scp done,,完成,椎间盘
+SAMN23523929,,Adult,,SRR17078568,scRNA-seq,PAIRED,intervertebral disc cell,,,,Human disc tissue,,127,Illumina NovaSeq 6000,2021_Jiang W,GSE189916,scp done,,完成,椎间盘
+SAMN23523927,,Neonatal,,SRR17078563,scRNA-seq,PAIRED,intervertebral disc cell,,,,Human disc tissue,,127,Illumina NovaSeq 6000,2021_Jiang W,GSE189916,scp done,,完成,椎间盘
+SAMN23523928,,Neonatal,,SRR17078565,scRNA-seq,PAIRED,intervertebral disc cell,,,,Human disc tissue,,127,Illumina NovaSeq 6000,2021_Jiang W,GSE189916,scp done,,完成,椎间盘
+SAMN23523929,,Adult,,SRR17078567,scRNA-seq,PAIRED,intervertebral disc cell,,,,Human disc tissue,,127,Illumina NovaSeq 6000,2021_Jiang W,GSE189916,scp done,,完成,椎间盘
+SAMN23523930,,Adult,,SRR17078569,scRNA-seq,PAIRED,intervertebral disc cell,,,,Human disc tissue,,126,Illumina NovaSeq 6000,2021_Jiang W,GSE189916,scp done,,完成,椎间盘
+SAMN23523931,,Adult,,SRR17078570,scRNA-seq,PAIRED,intervertebral disc cell,,,,Human disc tissue,,126,Illumina NovaSeq 6000,2021_Jiang W,GSE189916,scp done,,完成,椎间盘
+GSM4431301,,,,SRR11402958,scRNA-seq,PAIRED,myoblast,differentiation 20 days,,,H9 human pluripotent stem cell (hPSC),,102,Illumina HiSeq 2500,2020_Xi H,GSE147457,未开始,,未开始,cellline
+GSM4431302,,,,SRR11402959,scRNA-seq,PAIRED,myoblast,differentiation 21 days,,,H9 human pluripotent stem cell (hPSC),,202,Illumina HiSeq 4000,2020_Xi H,GSE147457,未开始,,未开始,cellline
+GSM4431303,,,,SRR11402960,scRNA-seq,PAIRED,myoblast,differentiation 27 days,,,H9 human pluripotent stem cell (hPSC),,102,Illumina HiSeq 2500,2020_Xi H,GSE147457,未开始,,未开始,cellline
+GSM4431304,,,,SRR11402961,scRNA-seq,PAIRED,myoblast,differentiation 27 days,,,H9 human pluripotent stem cell (hPSC),,202,Illumina HiSeq 4000,2020_Xi H,GSE147457,未开始,,未开始,cellline
+GSM4431305,,,,SRR11402962,scRNA-seq,PAIRED,myoblast,differentiation 35 days,,,H9 human pluripotent stem cell (hPSC),,202,Illumina HiSeq 4000,2020_Xi H,GSE147457,未开始,,未开始,cellline
+GSM4431306,,,,SRR11402963,scRNA-seq,PAIRED,myoblast,differentiation 35 days,,,H9 human pluripotent stem cell (hPSC),,202,Illumina HiSeq 4000,2020_Xi H,GSE147457,未开始,,未开始,cellline
+GSM4431307,,,,SRR11402964,scRNA-seq,PAIRED,myoblast,differentiation 35 days,,,H9 human pluripotent stem cell (hPSC),,202,Illumina HiSeq 4000,2020_Xi H,GSE147457,未开始,,未开始,cellline
+GSM4431308,,,,SRR11402965,scRNA-seq,PAIRED,myoblast,differentiation 41 days,,,H9 human pluripotent stem cell (hPSC),,102,Illumina HiSeq 2500,2020_Xi H,GSE147457,未开始,,未开始,cellline
+GSM4431309,,,,SRR11402966,scRNA-seq,PAIRED,myoblast,differentiation 41 days,,,H9 human pluripotent stem cell (hPSC),,202,Illumina HiSeq 4000,2020_Xi H,GSE147457,未开始,,未开始,cellline
+GSM4431310,,,,SRR11402967,scRNA-seq,PAIRED,myoblast,differentiation 55 days,,,H9 human pluripotent stem cell (hPSC),,102,Illumina HiSeq 2500,2020_Xi H,GSE147457,未开始,,未开始,cellline
+GSM4431311,,,,SRR11402968,scRNA-seq,PAIRED,myoblast,differentiation 55 days,,,H9 human pluripotent stem cell (hPSC),,202,Illumina HiSeq 4000,2020_Xi H,GSE147457,未开始,,未开始,cellline
+GSM4431312,,,,SRR11402969,scRNA-seq,PAIRED,myoblast,differentiation 34 days,,,H9 human pluripotent stem cell (hPSC),,202,Illumina HiSeq 4000,2020_Xi H,GSE147457,未开始,,未开始,cellline
+GSM4431313,,,,SRR11402970,scRNA-seq,PAIRED,myoblast,differentiation 34 days,,,H9 human pluripotent stem cell (hPSC),,202,Illumina HiSeq 4000,2020_Xi H,GSE147457,未开始,,未开始,cellline
+GSM4431314,,,,SRR11402971,scRNA-seq,PAIRED,myoblast,differentiation 34 days,,,H9 human pluripotent stem cell (hPSC),,202,Illumina HiSeq 4000,2020_Xi H,GSE147457,未开始,,未开始,cellline
+GSM4431315,,,,SRR11402972,scRNA-seq,PAIRED,myoblast,differentiation 48 days,,,H9 human pluripotent stem cell (hPSC),,202,Illumina HiSeq 4000,2020_Xi H,GSE147457,未开始,,未开始,cellline
+GSM4431316,,,,SRR11402973,scRNA-seq,PAIRED,myoblast,differentiation 48 days,,,H9 human pluripotent stem cell (hPSC),,202,Illumina HiSeq 4000,2020_Xi H,GSE147457,未开始,,未开始,cellline
+GSM4431317,,,,SRR11402974,scRNA-seq,PAIRED,myoblast,differentiation 43 days,,,H9 human pluripotent stem cell (hPSC),,102,Illumina NovaSeq 6000,2020_Xi H,GSE147457,未开始,,未开始,cellline
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,

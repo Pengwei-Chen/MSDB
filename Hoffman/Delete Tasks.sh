@@ -1,0 +1,1 @@
+qstat | grep wanluliu | awk '{print "qdel "$1}' | sh
