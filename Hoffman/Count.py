@@ -95,7 +95,7 @@ paper = 3
 layout = 4
 for runs_of_a_sample in scRNA.values():
     count = 0
-    command = "#!/bin/sh\n#$ -cwd\n#$ -o ./\n#$ -V\n#$ -S /bin/bash\n#$ -l h_data=105G,h_rt=24:00:00\n#$ -e ./\n#$ -pe shared 16\n\n"
+    command = "#!/bin/sh\n#$ -cwd\n#$ -o ./\n#$ -V\n#$ -S /bin/bash\n#$ -l h_data=105G,h_rt=24:00:00\n#$ -e ./\n# -pe shared 16\n\n"
     command += "cd ../\n"
     for run in runs_of_a_sample:
         count += 1
